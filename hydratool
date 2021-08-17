@@ -1,0 +1,4 @@
+import os
+os.system("sudo apt update")
+os.system("ping google.com")
+os.system("cmatrix")
